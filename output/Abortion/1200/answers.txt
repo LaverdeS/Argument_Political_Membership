@@ -1,5 +1,5 @@
-Bloc_Quebecois 0.500
-Independent 0.397
-Liberal 0.455
-New_Democrat 0.769
-Progressive_Conservative 0.475
+Bloc_Quebecois 0.777
+Independent 0.404
+Liberal 0.451
+New_Democrat 0.760
+Progressive_Conservative 0.469
