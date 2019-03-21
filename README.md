@@ -7,3 +7,4 @@
   - Info about Canadian political parties: http://www.thecanadaguide.com/government/political-parties/
   - Publication Search: http://www.ourcommons.ca/Parliamentarians/en/PublicationSearch?
   - Argument Search Engine args.me: https://www.args.me/
+  - Based on Authorship Verification solution for task from PAN by kocher16: https://github.com/pan-webis-de/kocher16
