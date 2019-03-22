@@ -1,5 +1,5 @@
 Bloc_Quebecois 0.500
-Independent 0.400
-Liberal 0.456
+Independent 0.452
+Liberal 0.484
 New_Democrat 0.500
-Progressive_Conservative 0.500
+Progressive_Conservative 0.465
